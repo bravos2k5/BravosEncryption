@@ -1,6 +1,6 @@
-package com.bravos2k5.encryption.impl;
+package com.bravos2k5.bravosencryption.service.impl;
 
-import com.bravos2k5.encryption.AESEncryptionService;
+import com.bravos2k5.bravosencryption.service.AESEncryptionService;
 import org.springframework.stereotype.Service;
 
 import javax.crypto.*;

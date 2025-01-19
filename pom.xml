@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.bravos2k5</groupId>
-	<artifactId>encryption</artifactId>
+	<artifactId>bravosencryption</artifactId>
 	<version>1.0.2</version>
 	<name>encryption</name>
 	<description>encryption</description>

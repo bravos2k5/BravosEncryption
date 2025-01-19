@@ -1,4 +1,4 @@
-package com.bravos2k5.encryption;
+package com.bravos2k5.bravosencryption;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

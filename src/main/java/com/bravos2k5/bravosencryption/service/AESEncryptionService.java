@@ -1,4 +1,4 @@
-package com.bravos2k5.encryption;
+package com.bravos2k5.bravosencryption.service;
 
 public interface AESEncryptionService {
 

@@ -1,6 +1,6 @@
-package com.bravos2k5.encryption.impl;
+package com.bravos2k5.bravosencryption.service.impl;
 
-import com.bravos2k5.encryption.Hmac512Service;
+import com.bravos2k5.bravosencryption.service.Hmac512Service;
 import org.springframework.stereotype.Service;
 
 import javax.crypto.Mac;

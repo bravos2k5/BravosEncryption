@@ -1,6 +1,6 @@
-package com.bravos2k5.encryption.impl;
+package com.bravos2k5.bravosencryption.service.impl;
 
-import com.bravos2k5.encryption.RSAService;
+import com.bravos2k5.bravosencryption.service.RSAService;
 import org.springframework.stereotype.Service;
 
 import javax.crypto.Cipher;
