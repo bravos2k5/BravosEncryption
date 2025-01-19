@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.bravos2k5</groupId>
 	<artifactId>encryption</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.2</version>
 	<name>encryption</name>
 	<description>encryption</description>
 	<url/>
